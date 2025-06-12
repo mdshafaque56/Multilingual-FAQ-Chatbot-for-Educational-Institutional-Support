@@ -1,7 +1,4 @@
-# FAQ Chatbot for NIT Calicut – README
-
-## Project Title
-**Multilingual FAQ Chatbot for Educational & Institutional Support**
+# Multilingual FAQ Chatbot for Educational & Institutional Support – README
 
 ## Domain
 Artificial Intelligence, Natural Language Processing, Conversational Agents, Educational Technology
