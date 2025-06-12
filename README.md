@@ -150,6 +150,6 @@ MIT License
 
 ---
 
-**Developed by MD Shafaque as a Project**
+**Developed by MD Shafaque. For questions or support, contact via email or message me via my website(mdshafaque56.github.io/My-Portfolio-MD-Shafaque-/) or linkedin**
 
 ---
